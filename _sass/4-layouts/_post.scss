@@ -106,7 +106,7 @@
 }
 
 .page__info {
-  max-width: 760px;
+  max-width: inherit;
   margin: 0 auto;
 }
 
@@ -211,7 +211,7 @@
 
 .post,
 .page {
-  max-width: 760px;
+  max-width: inherit;
   margin: 0 auto 60px;
   color: var(--text-color);
 

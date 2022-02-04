@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
@@ -16,36 +16,8 @@ Collaboratively administrate turnkey channels whereas virtual e-tailers. Objecti
     <img src="/images/105.jpg">
     <img src="/images/107.jpg">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
 Completely synergize resource taxing relationships via premier niche markets. Cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
 
 Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains. Dramatically engage top-line web services vis-a-vis cutting-edge deliverables.
-
-### Say Hi to me !
-
-<div class="form-box">
-  <div class="contact-head">
-    {% if site.contact.description %}
-      <p class="page-description">{{site.contact.description}}</p>
-    {% endif %}
-  </div>
-  <form class="form" action="{% if site.data.settings.contact.email %}https://formspree.io/{{site.data.settings.contact.email}}{% else %}#{% endif %}" method="POST">
-    <div class="form__group">
-      <label class="form__label screen-reader-text" for="form-name">Your Name</label>
-      <input class="form__input" id="form-name" type="text" name="name" placeholder="Name" required>
-    </div>
-    <div class="form__group">
-      <label class="form__label screen-reader-text" for="form-email">Your Email</label>
-      <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="Email" required>
-    </div>
-    <div class="form__group">
-      <label class="form__label screen-reader-text" for="form-text">Your Message</label>
-      <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="Message" required></textarea>
-    </div>
-    <div class="form__group">
-      <button class="button button--primary" type="submit">Send Message</button>
-    </div>
-  </form>
-</div>
