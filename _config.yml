@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: Menca
+title: MillionZero
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Menca personal blogging theme for Jekyll
+description: Emilyn's personal blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -11,16 +11,13 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 #-------------------------------
 # Author Settings
 author:
-  author__name: Camelia Mendes
-  author__bio: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
+  author__name: Emilyn C
+  author__bio: I design, develop, and writes about web applications development and other tech. I share intresting dev concepts, free resources and inspiration.
   author__avatar: '/images/01-1.jpg'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
 - {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-youtube", link: "https://youtube.com"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -36,7 +33,7 @@ hero:
 
 #-------------------------------
 # Newsletter
-mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+mailchimp:  # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
 mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
 mailchimp__input__text: Subscribe here
 mailchimp__button__text: Get a new tip
@@ -71,7 +68,7 @@ gallery:
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your email for contant form
+  email: emilyne@email.com # Add your email for contant form
   description: Menso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
@@ -80,7 +77,7 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: demo-menca # Add your shortname for Disqus Comment. For example demo-menca
+disqus-identifier:  # Add your shortname for Disqus Comment. For example demo-menca
 
 
 #-------------------------------
