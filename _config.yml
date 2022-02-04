@@ -12,8 +12,9 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Author Settings
 author:
   author__name: Emilyn C
-  author__bio: I design, develop, and writes about web applications development and other tech. I share intresting dev concepts, free resources and inspiration.
+  author__bio: I design, develop, and write about web development and other tech. I share intresting dev concepts, free resources and inspiration.
   author__avatar: '/images/01-1.jpg'
+  author__email: emilynbabu@gmail.com
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}

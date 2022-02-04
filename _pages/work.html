@@ -1,0 +1,23 @@
+---
+layout: page
+title: My Work
+permalink: /work/
+---
+
+{% if site.gallery %}
+<div class="col-12 col-d-12 push-d-0">
+  <div class="footer__gallery">
+    {% if site.gallery %}
+    <div class="gallery-footer">
+      <div class="gallery" style="grid-template-columns: repeat({{site.gallery.gallery__columns}}, auto);">
+        {% for image in site.gallery.gallery__images %}
+        <div class="gallery__image">
+          <img src="{{site.baseurl}}{{image.url}}" alt="{{image.alt}}" loading="lazy">
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+  </div>
+</div>
+{% endif %}
