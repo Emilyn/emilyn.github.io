@@ -1,6 +1,7 @@
 <!-- begin footer -->
 <footer class="footer">
 
+  {% if page.name != 'about.md' %}
   <div class="footer__inner">
     <div class="container">
       <div class="row">
@@ -12,7 +13,7 @@
             </div>
             <h3 class="footer__author-name">{{site.author.author__name}}</h3>
             <p class="footer__author-bio">{{site.author.author__bio}}</p>
-            <p class="footer__author-bio">mail me to: <a href="mailto:{{site.author.author__email}}}">{{site.author.author__email}}</a></p>
+            <p class="footer__author-bio">Say hello ! <a href="mailto:{{site.author.author__email}}}">{{site.author.author__email}}</a></p>
             {% if site.social %}
             <div class="social">
               <ul class="social__list list-reset">
@@ -35,6 +36,7 @@
       </div>
     </div>
   </div>
+  {% endif %}
 
   <div class="footer__info">
     <div class="container">

@@ -4,20 +4,33 @@ title: My Work
 permalink: /work/
 ---
 
-{% if site.gallery %}
-<div class="col-12 col-d-12 push-d-0">
-  <div class="footer__gallery">
-    {% if site.gallery %}
-    <div class="gallery-footer">
-      <div class="gallery" style="grid-template-columns: repeat({{site.gallery.gallery__columns}}, auto);">
-        {% for image in site.gallery.gallery__images %}
-        <div class="gallery__image">
-          <img src="{{site.baseurl}}{{image.url}}" alt="{{image.alt}}" loading="lazy">
+
+    <div class="grid">
+      <div class="grid__item">
+        <div class="card">
+          <div class="card__content">
+            <h1 class="card__header">A starry night</h1>
+            <p class="card__text">Look up at the night sky, and find yourself <strong>immersed</strong> in the amazing mountain range of Aspen. </p>
+            <button class="card__btn">Explore <span>→</span></button>
+          </div>
         </div>
-        {% endfor %}
+      </div>
+      <div class="grid__item">
+        <div class="card">
+          <div class="card__content">
+            <h1 class="card__header">Misty mornings</h1>
+            <p class="card__text">Capture the stunning <strong>essence</strong> of the early morning sunrise in the Californian wilderness.</p>
+            <button class="card__btn">Explore <span>→</span></button>
+          </div>
+        </div>
+      </div>
+      <div class="grid__item">
+        <div class="card">
+          <div class="card__content">
+            <h1 class="card__header">Utah sunsets</h1>
+            <p class="card__text">Sunsets over the <strong>stunning</strong> Utah Canyonlands, is truly something much more than incredible.</p>
+            <button class="card__btn">Explore <span>→</span></button>
+          </div>
+        </div>
       </div>
     </div>
-    {% endif %}
-  </div>
-</div>
-{% endif %}
