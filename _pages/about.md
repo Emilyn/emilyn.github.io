@@ -4,20 +4,23 @@ title: About me
 permalink: /about/
 ---
 
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Hi, I'm Emilyn 👋  Welcome to my webpage !!
+I'm a software engineer with a demonstrated history of working with many people arround the world.
+I design, architect and build web applications and web sites.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+I love working with javascript and C#. As a full time software engineer i build web applications using .net technologies and angular with azure cloud.
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+When i am not working i experiment lot of other software development technologies, it inspires me to develop a website so i can share my findings with others.
+
+I enjoy outdoor adventures (🚵🏻‍♂️ 🏕 🏸), traveling, landscape photography and exploring mouth watering food 🍣 🥯 !
+do follow me on instagram 
+<a class="social__link" href="https://www.instagram.com/emeclicks/" target="_blank" rel="noopener" aria-label=" link">
+<i class="ion ion-logo-instagram"></i> @emeclicks</a>
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/102.jpg">
-    <img src="/images/105.jpg">
-    <img src="/images/107.jpg">
+    <img src="/images/109.jpg">
+    <img src="/images/110.jpg">
+    <img src="/images/111.jpg">
   </div>
 </div>
-
-Completely synergize resource taxing relationships via premier niche markets. Cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
-
-Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains. Dramatically engage top-line web services vis-a-vis cutting-edge deliverables.
